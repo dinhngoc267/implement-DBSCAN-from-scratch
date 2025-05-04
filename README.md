@@ -46,3 +46,13 @@ X_with_noise = np.vstack([X, np.random.uniform(low=-6, high=6, size=(20, 2))])  
   <img src="./dbscan_clusters.png" alt="DBSCAN Output Example" width="500"/>
 </p>
 
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/dinhngoc267/implement-DBSCAN-from-scratch.git
+   cd implement-DBSCAN-from-scratch
+
+2. The full implementation and visualization are in the notebook: **`dbscan.ipynb`**.
+
